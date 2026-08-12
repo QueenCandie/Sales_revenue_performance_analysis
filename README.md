@@ -382,3 +382,7 @@ Future forecasting models could incorporate:
 - Statistical Analysis
 - Business Intelligence
 - Revenue Forecasting
+
+👩🏽‍💻 Author
+Oluwaseyi Obarayo
+Data Analyst | Business Intelligence | Financial & Commercial Analytics
